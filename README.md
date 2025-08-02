@@ -2,11 +2,11 @@
 
 This project demonstrates how to use a **Decision Tree Classifier** to classify data using **Scikit-learn**. The dataset used is the popular **Iris dataset**, and the goal is to predict the species of iris flowers based on their features.
 
-## 🧠 Model Used
+##  Model Used
 - Decision Tree Classifier (`sklearn.tree.DecisionTreeClassifier`)
 - Visualized using `plot_tree` from `sklearn`
 
-## 📁 Project Structure
+##  Project Structure
 ```
 decision-tree-classifier/
 │
@@ -28,14 +28,14 @@ decision-tree-classifier/
 2. Install requirements: `pip install -r requirements.txt`
 3. Open the notebook: `notebook/decision_tree.ipynb`
 
-## 📊 Output Visualization
+##  Output Visualization
 The notebook includes:
 - Feature importance graph
 - Decision tree visualization
 - Accuracy score
 
-## 📌 Author
-Sejal Dhole
+##  Author
+Shejal Dhole
 
-## 🪪 License
+##  License
 MIT License
