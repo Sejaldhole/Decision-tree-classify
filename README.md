@@ -23,7 +23,7 @@ decision-tree-classifier/
     └── predict.py
 ```
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 1. Clone this repo
 2. Install requirements: `pip install -r requirements.txt`
 3. Open the notebook: `notebook/decision_tree.ipynb`
